@@ -1,0 +1,144 @@
+[
+  {
+    "name": "Dr. Morila Wood",
+    "slug": "morila-wood",
+    "specialization": "Paediatric Surgeon",
+    "experience": "25 years of experience in Medicine",
+    "image": "/images/doctors/doctor-1.jpg",
+    "education": ["MBBS (Sydney)", "FRACS (Paediatric Surgery)", "University of Texas Clinical Orientation Program"],
+    "timings": {
+      "Monday - Friday": "08:00 - 20:00",
+      "Saturday": "09:00 - 18:00",
+      "Sunday": "09:00 - 18:00"
+    },
+    "description": "After graduating from West Virginia University Medical School, Dr. Morila completed fellowship work in sports medicine and paediatric care. Her calm clinical style and precise treatment planning make her a trusted physician for families.",
+    "socialLinks": {
+      "facebook": "#",
+      "twitter": "#",
+      "linkedin": "#"
+    },
+    "department": "Pediatrical",
+    "availability": "Available today for online appointment and in-clinic consultation.",
+    "seo": {
+      "title": "Dr. Morila Wood | Paediatric Surgeon",
+      "description": "Book an appointment with Dr. Morila Wood, paediatric surgeon at Medicoz Medical Solution."
+    }
+  },
+  {
+    "name": "Emily Haden",
+    "slug": "emily-haden",
+    "specialization": "Dental Surgeon",
+    "experience": "12 years of dental and restorative care",
+    "image": "/images/doctors/doctor-4.jpg",
+    "education": ["DDS", "Advanced Dental Surgery Fellowship"],
+    "timings": {
+      "Monday - Friday": "08:30 - 18:00",
+      "Saturday": "09:30 - 14:00"
+    },
+    "description": "Emily focuses on conservative dental care, aesthetic restoration, and gentle patient communication.",
+    "socialLinks": {
+      "facebook": "#",
+      "twitter": "#",
+      "linkedin": "#"
+    },
+    "department": "Dental Care",
+    "availability": "Available for dental checkups and operative procedures.",
+    "seo": {
+      "title": "Emily Haden | Dental Surgeon",
+      "description": "Meet Emily Haden, dental surgeon at Medicoz Medical Solution."
+    }
+  },
+  {
+    "name": "Hellen Hill",
+    "slug": "hellen-hill",
+    "specialization": "Cardiology Specialist",
+    "experience": "14 years in cardiology and preventive care",
+    "image": "/images/doctors/doctor-5.jpg",
+    "education": ["MD Cardiology", "Clinical Cardiac Imaging Certificate"],
+    "timings": {
+      "Monday - Friday": "10:00 - 19:00",
+      "Sunday": "Closed"
+    },
+    "description": "Hellen leads preventive heart screenings, cardiac assessments, and long-term cardiovascular care plans.",
+    "socialLinks": {
+      "facebook": "#",
+      "twitter": "#",
+      "linkedin": "#"
+    },
+    "department": "Cardiology",
+    "availability": "Available for heart assessments and second opinions.",
+    "seo": {
+      "title": "Hellen Hill | Cardiology Specialist",
+      "description": "Book cardiology consultation with Hellen Hill at Medicoz."
+    }
+  },
+  {
+    "name": "Audrey Button",
+    "slug": "audrey-button",
+    "specialization": "Dental Surgeon",
+    "experience": "10 years of dental surgery",
+    "image": "/images/doctors/doctor-6.jpg",
+    "education": ["BDS", "Oral Surgery Residency"],
+    "timings": {
+      "Tuesday - Saturday": "09:00 - 17:30"
+    },
+    "description": "Audrey is known for precise treatment plans and comfortable dental surgery workflows.",
+    "socialLinks": {
+      "facebook": "#",
+      "twitter": "#",
+      "linkedin": "#"
+    },
+    "department": "Dental Care",
+    "availability": "Available for consultation and surgical follow-up.",
+    "seo": {
+      "title": "Audrey Button | Dental Surgeon",
+      "description": "Meet Audrey Button, dental surgeon at Medicoz Medical Solution."
+    }
+  },
+  {
+    "name": "Dr. Janice Lee",
+    "slug": "janice-lee",
+    "specialization": "Neurology Specialist",
+    "experience": "16 years in neurology",
+    "image": "/images/doctors/doctor-2.jpg",
+    "education": ["MD Neurology", "Clinical Neurophysiology Fellowship"],
+    "timings": {
+      "Monday - Thursday": "09:00 - 18:00"
+    },
+    "description": "Dr. Lee treats neurological symptoms with a careful diagnostic process and advanced imaging coordination.",
+    "socialLinks": {
+      "facebook": "#",
+      "twitter": "#",
+      "linkedin": "#"
+    },
+    "department": "Neurology",
+    "availability": "Available for neurological consultation.",
+    "seo": {
+      "title": "Dr. Janice Lee | Neurology Specialist",
+      "description": "Consult Dr. Janice Lee for neurology care at Medicoz."
+    }
+  },
+  {
+    "name": "Dr. Nathan Cole",
+    "slug": "nathan-cole",
+    "specialization": "Urology Consultant",
+    "experience": "13 years in urology",
+    "image": "/images/doctors/doctor-3.jpg",
+    "education": ["MS Urology", "Minimally Invasive Surgery Training"],
+    "timings": {
+      "Monday - Friday": "08:00 - 16:00"
+    },
+    "description": "Dr. Cole provides urology care, minimally invasive procedures, and long-term patient management.",
+    "socialLinks": {
+      "facebook": "#",
+      "twitter": "#",
+      "linkedin": "#"
+    },
+    "department": "Urology",
+    "availability": "Available for urology review and procedure planning.",
+    "seo": {
+      "title": "Dr. Nathan Cole | Urology Consultant",
+      "description": "Book an appointment with Dr. Nathan Cole for urology care at Medicoz."
+    }
+  }
+]

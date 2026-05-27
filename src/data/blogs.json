@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "title": "What is the Success rate of a root canal?",
+    "slug": "success-rate-root-canal",
+    "description": "A practical look at root canal outcomes, recovery expectations, and the modern clinical tools that improve patient comfort.",
+    "image": "/images/blog/blog-1.jpg",
+    "category": "Procedures",
+    "tags": ["Dental", "Doctor", "Health", "Service"],
+    "date": "2026-01-25",
+    "author": "Admin Rose",
+    "content": [
+      "Modern root canal therapy is designed to preserve natural teeth while removing infection from the inner canal system. With careful imaging, sterile technique, and restorative planning, most patients return quickly to their usual routines.",
+      "The outcome depends on timely treatment, tooth structure, final restoration quality, and follow-up hygiene. Our clinicians combine gentle anesthesia, digital radiographs, and precision instruments to reduce discomfort and improve long-term durability.",
+      "Patients should call their dentist if swelling, persistent pressure, or fever appears after treatment. Early review keeps minor issues from becoming complicated and protects the surrounding bone and gum tissue."
+    ],
+    "FAQ": [
+      {
+        "question": "Is a root canal painful?",
+        "answer": "Most patients feel pressure rather than pain because local anesthesia keeps the area comfortable throughout treatment."
+      },
+      {
+        "question": "How long does recovery take?",
+        "answer": "Tenderness often improves within a few days, while the final crown or restoration protects the tooth for long-term function."
+      }
+    ],
+    "seo": {
+      "title": "Root Canal Success Rate | Medicoz Hospital Blog",
+      "description": "Learn how modern root canal treatment works, what recovery feels like, and which factors improve long-term success."
+    },
+    "relatedPosts": ["kids-mystery-ailments", "carnival-rate-health-care"]
+  },
+  {
+    "id": 2,
+    "title": "How to handle your kids' mystery ailments?",
+    "slug": "kids-mystery-ailments",
+    "description": "Simple triage guidance for parents when symptoms are unclear, intermittent, or hard for children to explain.",
+    "image": "/images/blog/blog-2.jpg",
+    "category": "Healthcare Tips",
+    "tags": ["Kids", "Nurse", "Health"],
+    "date": "2026-02-20",
+    "author": "Admin Rose",
+    "content": [
+      "Children may describe pain vaguely or show symptoms that come and go. A symptom diary, hydration check, temperature log, and a note of recent exposures can help the care team understand the pattern.",
+      "Parents should seek urgent help when symptoms include breathing difficulty, dehydration signs, persistent high fever, altered alertness, severe abdominal pain, or a rash that does not fade with pressure.",
+      "For non-urgent concerns, our pediatric team reviews growth, nutrition, sleep, and family history to separate normal childhood variation from issues that need investigation."
+    ],
+    "FAQ": [
+      {
+        "question": "When should I book a pediatric appointment?",
+        "answer": "Book an appointment if symptoms last more than a few days, repeat often, interrupt sleep, or worry you even without obvious danger signs."
+      },
+      {
+        "question": "What should I bring to the visit?",
+        "answer": "Bring current medicines, allergy information, vaccination records, and notes about fever, appetite, sleep, and pain location."
+      }
+    ],
+    "seo": {
+      "title": "Children's Mystery Symptoms | Medicoz",
+      "description": "Know when to watch, when to call, and what information helps doctors evaluate unclear symptoms in children."
+    },
+    "relatedPosts": ["success-rate-root-canal", "negative-statin-stories"]
+  },
+  {
+    "id": 3,
+    "title": "Lung cancer survival rate in England improves",
+    "slug": "carnival-rate-health-care",
+    "description": "How earlier diagnosis, improved imaging, and coordinated oncology pathways are changing respiratory care outcomes.",
+    "image": "/images/blog/blog-3.jpg",
+    "category": "Transplantation",
+    "tags": ["Cancer", "Medical", "Research"],
+    "date": "2026-03-14",
+    "author": "Robert Theodore",
+    "content": [
+      "Respiratory outcomes improve when patients receive timely imaging, multidisciplinary review, and access to modern treatment options. Screening, smoking cessation support, and symptom education all play a role.",
+      "A coordinated care pathway shortens the time between first concern, diagnosis, staging, and treatment planning. It also gives patients a clearer support structure during a difficult period.",
+      "Our respiratory and oncology teams focus on earlier referrals and patient-centered follow-up so every result has a clear next step."
+    ],
+    "FAQ": [
+      {
+        "question": "What symptoms should be checked?",
+        "answer": "A persistent cough, unexplained weight loss, chest pain, breathlessness, or coughing blood should be assessed promptly."
+      },
+      {
+        "question": "Can screening help?",
+        "answer": "Screening can help high-risk patients by identifying disease earlier, when treatment options may be broader."
+      }
+    ],
+    "seo": {
+      "title": "Lung Cancer Outcomes and Early Diagnosis | Medicoz",
+      "description": "Explore how early diagnosis and coordinated respiratory pathways support better lung cancer outcomes."
+    },
+    "relatedPosts": ["negative-statin-stories", "health-care-time"]
+  },
+  {
+    "id": 4,
+    "title": "Negative statin stories add to heart health risk",
+    "slug": "negative-statin-stories",
+    "description": "Why medication decisions should be personalized and reviewed with a qualified clinician instead of online anecdotes.",
+    "image": "/images/departments/operation.jpg",
+    "category": "Management",
+    "tags": ["Heart", "Doctor", "Medical"],
+    "date": "2026-04-02",
+    "author": "Admin Rose",
+    "content": [
+      "Heart health medication decisions are best made with a clinician who can review personal risk, family history, lab values, and side effects. Online stories rarely include the full clinical picture.",
+      "When symptoms appear after starting a medicine, the safest approach is a structured review rather than stopping treatment abruptly. Alternative doses or medicines may solve the issue.",
+      "Our cardiology team uses risk calculators, lipid testing, and shared decision making to keep prevention plans practical and safe."
+    ],
+    "FAQ": [
+      {
+        "question": "Should I stop a statin if I feel side effects?",
+        "answer": "Contact your clinician first so they can assess symptoms and adjust the plan safely."
+      },
+      {
+        "question": "Are lifestyle changes still important?",
+        "answer": "Yes. Nutrition, activity, sleep, and blood pressure control remain central even when medication is prescribed."
+      }
+    ],
+    "seo": {
+      "title": "Statins and Heart Health Risk | Medicoz",
+      "description": "Understand how clinicians personalize statin therapy and respond to possible side effects."
+    },
+    "relatedPosts": ["success-rate-root-canal", "carnival-rate-health-care"]
+  },
+  {
+    "id": 5,
+    "title": "Clean masks and better infection control",
+    "slug": "infection-control-masks",
+    "description": "A concise guide to safe mask handling, clinical hygiene, and infection prevention in daily care settings.",
+    "image": "/images/departments/laboratory.jpg",
+    "category": "Procedures",
+    "tags": ["Medical", "Nurse", "Service"],
+    "date": "2026-04-18",
+    "author": "Robert Theodore",
+    "content": [
+      "Infection prevention depends on small habits repeated consistently. Mask hygiene, hand cleaning, surface disinfection, and ventilation each reduce avoidable exposure.",
+      "Clinical teams also rely on standard protocols for instrument handling, room turnover, and patient screening. These systems protect patients and care providers at the same time.",
+      "Patients can help by rescheduling visits when acutely infectious and by following clinic instructions for masks or isolation areas."
+    ],
+    "FAQ": [
+      {
+        "question": "How often should masks be replaced?",
+        "answer": "Replace disposable masks when they become damp, damaged, dirty, or hard to breathe through."
+      },
+      {
+        "question": "What matters most in infection control?",
+        "answer": "Hand hygiene, clean surfaces, ventilation, and clear illness screening are the strongest daily habits."
+      }
+    ],
+    "seo": {
+      "title": "Mask Hygiene and Infection Control | Medicoz",
+      "description": "Learn practical infection prevention habits for patients and clinical care environments."
+    },
+    "relatedPosts": ["health-care-time", "kids-mystery-ailments"]
+  },
+  {
+    "id": 6,
+    "title": "Great health care for patients starts with time",
+    "slug": "health-care-time",
+    "description": "Why thoughtful consultation time, clear follow-up, and practical communication improve patient trust.",
+    "image": "/images/hero/slide-2.jpg",
+    "category": "Uncategorized",
+    "tags": ["Hospital", "Care", "Doctor"],
+    "date": "2026-05-05",
+    "author": "Admin Rose",
+    "content": [
+      "A good patient experience begins before treatment. Clear scheduling, short waiting times, and an unhurried consultation give clinicians better information and patients more confidence.",
+      "Care teams that communicate well reduce repeat visits, medication confusion, and anxiety around test results. Time is not only a courtesy; it is a clinical tool.",
+      "Medicoz designs appointments around listening, examination, next steps, and follow-up so patients understand their own care plan."
+    ],
+    "FAQ": [
+      {
+        "question": "How can I prepare for an appointment?",
+        "answer": "Write down symptoms, medicines, allergies, prior reports, and the top questions you want answered."
+      },
+      {
+        "question": "Why does follow-up matter?",
+        "answer": "Follow-up checks whether treatment is working and catches changes before they become harder to manage."
+      }
+    ],
+    "seo": {
+      "title": "Patient-Centered Care and Appointment Time | Medicoz",
+      "description": "See how consultation time, communication, and follow-up shape better patient care."
+    },
+    "relatedPosts": ["success-rate-root-canal", "infection-control-masks"]
+  }
+]

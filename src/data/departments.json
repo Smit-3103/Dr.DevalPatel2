@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Cardiology Department",
+    "slug": "cardiology",
+    "image": "/images/hero/slide-2.jpg",
+    "description": "Cardiology is the study and treatment of heart conditions. Our consultants provide diagnosis, prevention, imaging, and ongoing management for cardiac patients.",
+    "treatments": ["Cardiac risk assessment", "Heart rhythm monitoring", "Preventive lipid management", "Post-procedure follow-up"],
+    "FAQ": [
+      {
+        "question": "When should I see a cardiologist?",
+        "answer": "Chest pain, breathlessness, palpitations, fainting, high blood pressure, or strong family history should be reviewed."
+      },
+      {
+        "question": "Do you provide preventive care?",
+        "answer": "Yes. We offer screening, lifestyle planning, and medication review for patients at increased cardiac risk."
+      }
+    ],
+    "services": ["ECG", "Echo coordination", "Blood pressure review", "Lifestyle planning"],
+    "seo": {
+      "title": "Cardiology Department | Medicoz",
+      "description": "Cardiology care, cardiac risk assessment, and preventive heart health services at Medicoz."
+    }
+  },
+  {
+    "title": "Neurology Department",
+    "slug": "neurology",
+    "image": "/images/departments/mri.jpg",
+    "description": "Neurology focuses on disorders of the brain, spine, nerves, and muscles with careful examination and focused imaging pathways.",
+    "treatments": ["Migraine care", "Tremor assessment", "Neuropathy review", "Seizure pathway coordination"],
+    "FAQ": [
+      {
+        "question": "What happens during a neurology visit?",
+        "answer": "The doctor reviews symptoms, performs a neurological examination, and recommends tests or treatment based on the pattern."
+      },
+      {
+        "question": "Do I need imaging?",
+        "answer": "Imaging depends on symptoms, exam findings, and clinical risk. Your neurologist will recommend it only when useful."
+      }
+    ],
+    "services": ["Neurological exam", "MRI coordination", "Medication review", "Rehabilitation referral"],
+    "seo": {
+      "title": "Neurology Department | Medicoz",
+      "description": "Neurology diagnosis and treatment planning for brain, spine, nerve, and muscle conditions."
+    }
+  },
+  {
+    "title": "Urology Department",
+    "slug": "urology",
+    "image": "/images/departments/spine.jpg",
+    "description": "Urology provides focused care for urinary and reproductive health concerns using modern diagnostics and minimally invasive planning.",
+    "treatments": ["Stone care", "Bladder symptoms", "Prostate review", "Minimally invasive procedures"],
+    "FAQ": [
+      {
+        "question": "Can I book directly?",
+        "answer": "Yes. You can book a urology review directly or after referral from a primary physician."
+      },
+      {
+        "question": "Are procedures outpatient?",
+        "answer": "Many diagnostic and minor procedures are outpatient, while complex cases receive a dedicated plan."
+      }
+    ],
+    "services": ["Ultrasound", "Urine testing", "Procedure planning", "Follow-up care"],
+    "seo": {
+      "title": "Urology Department | Medicoz",
+      "description": "Urology consultations, diagnostics, and procedure planning at Medicoz Medical Solution."
+    }
+  },
+  {
+    "title": "Gynecological",
+    "slug": "gynecological",
+    "image": "/images/departments/ultrasound.jpg",
+    "description": "Our gynecological department supports preventive care, diagnostics, pregnancy guidance, and treatment for women's health conditions.",
+    "treatments": ["Preventive screening", "Cycle concerns", "Pregnancy support", "Ultrasound coordination"],
+    "FAQ": [
+      {
+        "question": "Do you offer routine screenings?",
+        "answer": "Yes. We offer preventive reviews, screening referrals, and follow-up for women's health needs."
+      },
+      {
+        "question": "Can I request a female doctor?",
+        "answer": "Our scheduling team will help match patients with available specialists whenever possible."
+      }
+    ],
+    "services": ["Screening", "Ultrasound", "Counseling", "Follow-up care"],
+    "seo": {
+      "title": "Gynecological Department | Medicoz",
+      "description": "Women's health, preventive screening, and gynecological care at Medicoz."
+    }
+  },
+  {
+    "title": "Pediatrical",
+    "slug": "pediatrical",
+    "image": "/images/departments/diagnostic.jpg",
+    "description": "Pediatrical services include preventive checkups, acute illness review, growth monitoring, and family-centered care plans.",
+    "treatments": ["Child checkups", "Fever review", "Growth monitoring", "Vaccination guidance"],
+    "FAQ": [
+      {
+        "question": "Do you treat newborns?",
+        "answer": "Yes. We provide newborn reviews, feeding guidance, and referral coordination when specialist care is needed."
+      },
+      {
+        "question": "Can parents stay during the visit?",
+        "answer": "Yes. Family-centered visits keep parents involved and children more comfortable."
+      }
+    ],
+    "services": ["Pediatric exam", "Growth charting", "Vaccination review", "Family counseling"],
+    "seo": {
+      "title": "Pediatrical Department | Medicoz",
+      "description": "Pediatric care, checkups, and family-centered child health services at Medicoz."
+    }
+  },
+  {
+    "title": "Laboratory",
+    "slug": "laboratory",
+    "image": "/images/departments/laboratory.jpg",
+    "description": "The laboratory supports diagnosis and monitoring with reliable specimen handling, fast reporting, and clinical coordination.",
+    "treatments": ["Blood tests", "Urine analysis", "Health packages", "Pre-operative tests"],
+    "FAQ": [
+      {
+        "question": "Do I need fasting?",
+        "answer": "Some tests require fasting. The booking team will confirm preparation instructions before your appointment."
+      },
+      {
+        "question": "How are results shared?",
+        "answer": "Results are shared securely and reviewed with your clinician when interpretation is needed."
+      }
+    ],
+    "services": ["Blood sampling", "Pathology", "Preventive packages", "Report review"],
+    "seo": {
+      "title": "Laboratory Department | Medicoz",
+      "description": "Laboratory diagnostics, blood testing, and clinical report support at Medicoz."
+    }
+  }
+]
